@@ -1,7 +1,7 @@
 // config.js
 export default {
   site: {
-    title: 'React Universal Blog'
+    title: 'React Universal Blog TEST_STEF'
   },
   bucket: {
     slug: process.env.COSMIC_BUCKET || 'react-universal-blog',
